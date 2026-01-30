@@ -133,5 +133,3 @@ docker rm static-web
 
 **Naman Pandey**
 DevOps & Cloud Enthusiast 🚀
-
-```
